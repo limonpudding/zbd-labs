@@ -1,0 +1,15 @@
+insert into Country (id, name) values (0, 'Sweden');
+insert into Country (id, name) values (1, 'Russia');
+insert into Country (id, name) values (2, 'Ukraine');
+insert into Country (id, name) values (3, 'Germany');
+insert into Country (id, name) values (4, 'France');
+insert into Country (id, name) values (5, 'United States');
+insert into Country (id, name) values (6, 'Turkey');
+insert into Country (id, name) values (7, 'China');
+insert into Country (id, name) values (8, 'Mongolia');
+insert into Country (id, name) values (9, 'Poland');
+insert into Country (id, name) values (10, 'Finland');
+insert into Country (id, name) values (11, 'Denmark');
+insert into Country (id, name) values (12, 'Canada');
+insert into Country (id, name) values (13, 'Brazil');
+insert into Country (id, name) values (14, 'Slovakia');
