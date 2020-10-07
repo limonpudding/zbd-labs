@@ -1,0 +1,15 @@
+insert into zbd.Country (id, name) values (0, 'Sweden');
+insert into zbd.Country (id, name) values (1, 'Russia');
+insert into zbd.Country (id, name) values (2, 'Ukraine');
+insert into zbd.Country (id, name) values (3, 'Germany');
+insert into zbd.Country (id, name) values (4, 'France');
+insert into zbd.Country (id, name) values (5, 'United States');
+insert into zbd.Country (id, name) values (6, 'Turkey');
+insert into zbd.Country (id, name) values (7, 'China');
+insert into zbd.Country (id, name) values (8, 'Mongolia');
+insert into zbd.Country (id, name) values (9, 'Poland');
+insert into zbd.Country (id, name) values (10, 'Finland');
+insert into zbd.Country (id, name) values (11, 'Denmark');
+insert into zbd.Country (id, name) values (12, 'Canada');
+insert into zbd.Country (id, name) values (13, 'Brazil');
+insert into zbd.Country (id, name) values (14, 'Slovakia');
