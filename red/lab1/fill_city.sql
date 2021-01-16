@@ -1,0 +1,7 @@
+connect "/db/red/reddb_lab1.fdb";
+insert into City (id, name, country) values (0, 'Copenhagen', (select id from Country where Country.name = 'Denmark'));
+insert into City (id, name, country) values (1, 'Moscow', (select id from Country where Country.name = 'Russia'));
+insert into City (id, name, country) values (2, 'Stockholm', (select id from Country where Country.name = 'Sweden'));
+insert into City (id, name, country) values (3, 'Cologne', (select id from Country where Country.name = 'Germany'));
+insert into City (id, name, country) values (4, 'Kiev', (select id from Country where Country.name = 'Ukraine'));
+insert into City (id, name, country) values (5, 'Warsaw', (select id from Country where Country.name = 'Poland'));

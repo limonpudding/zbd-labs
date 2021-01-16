@@ -1,9 +1,10 @@
-CREATE TABLE Journal (
-                         id int primary key,
-                         action_time timestamp,
-                         user_name varchar(32),
-                         operation varchar(6),
-                         action_table varchar(32)
+CREATE TABLE Journal
+(
+    id           int primary key,
+    action_time  timestamp,
+    user_name    varchar(32),
+    operation    varchar(6),
+    action_table varchar(32)
 );
 
 CREATE TRIGGER TR_JR_MATCH FOR Match
